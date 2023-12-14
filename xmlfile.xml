@@ -1,0 +1,66 @@
+<abstracts-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/abstract/dtd"
+    xmlns:dn="http://www.elsevier.com/xml/svapi/abstract/dtd"
+    xmlns:ait="http://www.elsevier.com/xml/ani/ait"
+    xmlns:ce="http://www.elsevier.com/xml/ani/common"
+    xmlns:cto="http://www.elsevier.com/xml/cto/dtd"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+    xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <coredata>
+        <prism:url>https://api.elsevier.com/content/abstract/scopus_id/85136440648</prism:url>
+        <dc:identifier>SCOPUS_ID:85136440648</dc:identifier>
+        <eid>2-s2.0-85136440648</eid>
+        <prism:doi>10.3390/su14148728</prism:doi>
+        <article-number>8728</article-number>
+        <dc:title>Proposal for a Framework to Develop Sustainable Tourism on the Santurbán Moor, Colombia, as an Alternative Source of Income between Environmental Sustainability and Mining</dc:title>
+        <prism:aggregationType>Journal</prism:aggregationType>
+        <srctype>j</srctype>
+        <subtype>ar</subtype>
+        <subtypeDescription>Article</subtypeDescription>
+        <citedby-count>3</citedby-count>
+        <prism:publicationName>Sustainability (Switzerland)</prism:publicationName>
+        <dc:publisher>MDPI</dc:publisher>
+        <source-id>21100240100</source-id>
+        <prism:issn>20711050</prism:issn>
+        <prism:volume>14</prism:volume>
+        <prism:issueIdentifier>14</prism:issueIdentifier>
+        <prism:coverDate>2022-07-01</prism:coverDate>
+        <openaccess>1</openaccess>
+        <openaccessFlag>true</openaccessFlag>
+        <dc:creator>
+            <author seq="1" auid="57191196981">
+                <ce:initials>M.F.</ce:initials>
+                <ce:indexed-name>Florez M.F.</ce:indexed-name>
+                <ce:surname>Flórez</ce:surname>
+                <ce:given-name>Marco Fidel</ce:given-name>
+                <preferred-name>
+                    <ce:initials>M.F.</ce:initials>
+                    <ce:indexed-name>Flórez M.F.</ce:indexed-name>
+                    <ce:surname>Flórez</ce:surname>
+                    <ce:given-name>Marco Fidel</ce:given-name>
+                </preferred-name>
+                <author-url>https://api.elsevier.com/content/author/author_id/57191196981</author-url>
+                <affiliation id="60111722" href="https://api.elsevier.com/content/affiliation/affiliation_id/60111722"/>
+            </author>
+        </dc:creator>
+        <link href="https://api.elsevier.com/content/abstract/scopus_id/85136440648" rel="self"/>
+        <link href="https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&amp;scp=85136440648&amp;origin=inward" rel="scopus"/>
+        <link href="https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&amp;scp=85136440648&amp;origin=inward" rel="scopus-citedby"/>
+    </coredata>
+    <affiliation>
+        <affilname>Universidad de Investigación y Desarrollo</affilname>
+        <affiliation-city>Bucaramanga</affiliation-city>
+        <affiliation-country>Colombia</affiliation-country>
+    </affiliation>
+    <affiliation>
+        <affilname>Universidad Autónoma de Bucaramanga</affilname>
+        <affiliation-city>Bucaramanga</affiliation-city>
+        <affiliation-country>Colombia</affiliation-country>
+    </affiliation>
+    <affiliation>
+        <affilname>Federal Rural University of the Semi-Arid Region</affilname>
+        <affiliation-city>Mossoro</affiliation-city>
+        <affiliation-country>Brazil</affiliation-country>
+    </affiliation>
+</abstracts-retrieval-response>
