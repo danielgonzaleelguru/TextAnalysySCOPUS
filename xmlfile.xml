@@ -8,59 +8,52 @@
     xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <coredata>
-        <prism:url>https://api.elsevier.com/content/abstract/scopus_id/85136440648</prism:url>
-        <dc:identifier>SCOPUS_ID:85136440648</dc:identifier>
-        <eid>2-s2.0-85136440648</eid>
-        <prism:doi>10.3390/su14148728</prism:doi>
-        <article-number>8728</article-number>
-        <dc:title>Proposal for a Framework to Develop Sustainable Tourism on the Santurbán Moor, Colombia, as an Alternative Source of Income between Environmental Sustainability and Mining</dc:title>
+        <prism:url>https://api.elsevier.com/content/abstract/scopus_id/85178919210</prism:url>
+        <dc:identifier>SCOPUS_ID:85178919210</dc:identifier>
+        <eid>2-s2.0-85178919210</eid>
+        <prism:doi>10.47750/QAS/25.199.34</prism:doi>
+        <dc:title>Collaborative Governance Model In Sustainable Village Tourism Development (Case Study: Kemiren Village Tourism In Ijen Crater Geopark Cultural Site)</dc:title>
         <prism:aggregationType>Journal</prism:aggregationType>
         <srctype>j</srctype>
         <subtype>ar</subtype>
         <subtypeDescription>Article</subtypeDescription>
-        <citedby-count>3</citedby-count>
-        <prism:publicationName>Sustainability (Switzerland)</prism:publicationName>
-        <dc:publisher>MDPI</dc:publisher>
-        <source-id>21100240100</source-id>
-        <prism:issn>20711050</prism:issn>
-        <prism:volume>14</prism:volume>
-        <prism:issueIdentifier>14</prism:issueIdentifier>
-        <prism:coverDate>2022-07-01</prism:coverDate>
-        <openaccess>1</openaccess>
-        <openaccessFlag>true</openaccessFlag>
+        <citedby-count>0</citedby-count>
+        <prism:publicationName>Quality - Access to Success</prism:publicationName>
+        <dc:publisher>SRAC - Romanian Society for Quality</dc:publisher>
+        <source-id>17700156709</source-id>
+        <prism:issn>15822559</prism:issn>
+        <prism:volume>25</prism:volume>
+        <prism:issueIdentifier>199</prism:issueIdentifier>
+        <prism:startingPage>310</prism:startingPage>
+        <prism:endingPage>318</prism:endingPage>
+        <prism:pageRange>310-318</prism:pageRange>
+        <prism:coverDate>2024-01-01</prism:coverDate>
+        <openaccess>0</openaccess>
+        <openaccessFlag>false</openaccessFlag>
         <dc:creator>
-            <author seq="1" auid="57191196981">
-                <ce:initials>M.F.</ce:initials>
-                <ce:indexed-name>Florez M.F.</ce:indexed-name>
-                <ce:surname>Flórez</ce:surname>
-                <ce:given-name>Marco Fidel</ce:given-name>
+            <author seq="1" auid="57215500620">
+                <ce:initials>M.</ce:initials>
+                <ce:indexed-name>Nuh M.</ce:indexed-name>
+                <ce:surname>Nuh</ce:surname>
+                <ce:given-name>Mohammad</ce:given-name>
                 <preferred-name>
-                    <ce:initials>M.F.</ce:initials>
-                    <ce:indexed-name>Flórez M.F.</ce:indexed-name>
-                    <ce:surname>Flórez</ce:surname>
-                    <ce:given-name>Marco Fidel</ce:given-name>
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Nuh M.</ce:indexed-name>
+                    <ce:surname>Nuh</ce:surname>
+                    <ce:given-name>Mohammad</ce:given-name>
                 </preferred-name>
-                <author-url>https://api.elsevier.com/content/author/author_id/57191196981</author-url>
-                <affiliation id="60111722" href="https://api.elsevier.com/content/affiliation/affiliation_id/60111722"/>
+                <author-url>https://api.elsevier.com/content/author/author_id/57215500620</author-url>
+                <affiliation id="60069392" href="https://api.elsevier.com/content/affiliation/affiliation_id/60069392"/>
             </author>
         </dc:creator>
-        <link href="https://api.elsevier.com/content/abstract/scopus_id/85136440648" rel="self"/>
-        <link href="https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&amp;scp=85136440648&amp;origin=inward" rel="scopus"/>
-        <link href="https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&amp;scp=85136440648&amp;origin=inward" rel="scopus-citedby"/>
+        <link href="https://api.elsevier.com/content/abstract/scopus_id/85178919210" rel="self"/>
+        <link href="https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&amp;scp=85178919210&amp;origin=inward" rel="scopus"/>
+        <link href="https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&amp;scp=85178919210&amp;origin=inward" rel="scopus-citedby"/>
     </coredata>
     <affiliation>
-        <affilname>Universidad de Investigación y Desarrollo</affilname>
-        <affiliation-city>Bucaramanga</affiliation-city>
-        <affiliation-country>Colombia</affiliation-country>
-    </affiliation>
-    <affiliation>
-        <affilname>Universidad Autónoma de Bucaramanga</affilname>
-        <affiliation-city>Bucaramanga</affiliation-city>
-        <affiliation-country>Colombia</affiliation-country>
-    </affiliation>
-    <affiliation>
-        <affilname>Federal Rural University of the Semi-Arid Region</affilname>
-        <affiliation-city>Mossoro</affiliation-city>
-        <affiliation-country>Brazil</affiliation-country>
+        <affilname>Brawijaya University</affilname>
+        <affiliation-city>Malang</affiliation-city>
+        <affiliation-country>Indonesia</affiliation-country>
     </affiliation>
 </abstracts-retrieval-response>
+
